@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="t1.vi" Type="VI" URL="../t1.vi"/>
+		<Item Name="ui.vi" Type="VI" URL="../ui.vi"/>
 		<Item Name="未命名 2.vi" Type="VI" URL="../未命名 2.vi"/>
 		<Item Name="依赖关系" Type="Dependencies"/>
 		<Item Name="程序生成规范" Type="Build"/>
